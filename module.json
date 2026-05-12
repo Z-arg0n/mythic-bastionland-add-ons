@@ -1,0 +1,30 @@
+{
+  "id": "mythic-bastionland-add-ons",
+  "title": "Mythic Bastionland Add Ons",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Zarg0n",
+      "discord": "rg0n",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "mythicbastionland",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "action": "manageModule",
+  "description": ""
+}
