@@ -29,5 +29,19 @@
   "url": "https://github.com/Z-arg0n/mythic-bastionland-add-ons",
   "manifest": "https://raw.githubusercontent.com/Z-arg0n/mythic-bastionland-add-ons/main/module.json",
   "download": "https://github.com/Z-arg0n/mythic-bastionland-add-ons/archive/refs/heads/main.zip",
+  "packs": [
+    {
+      "name": "zarg0n-armory",
+      "label": "Zarg0n's Armory",
+      "path": "packs/zarg0n-armory",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "mythicbastionland",
+      "flags": {}
+    }
+  ],
   "description": ""
 }
