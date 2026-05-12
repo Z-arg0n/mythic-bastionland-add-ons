@@ -27,7 +27,7 @@
   },
   "action": "manageModule",
   "url": "https://github.com/Z-arg0n/mythic-bastionland-add-ons",
-  "manifest": "https://raw.githubusercontent.com/Z-arg0n/mythic-bastionland-add-ons/master/module.json",
+  "manifest": "https://raw.githubusercontent.com/Z-arg0n/mythic-bastionland-add-ons/main/module.json",
   "download": "https://github.com/Z-arg0n/mythic-bastionland-add-ons/archive/refs/heads/main.zip",
   "description": ""
 }
